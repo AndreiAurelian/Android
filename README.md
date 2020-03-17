@@ -21,3 +21,14 @@ Ex5
  -Reciclam datele pe care le avem deja
   View convertView
   if (convertView == null)
+Ex6  
+ -am conectat xml-ul la ListView din java
+ -am initializat obiectul carAdapter
+ -l-am setat pt lista si am adaugat 4 maini
+ Ex7
+ -in activity_main.xml in LinearLayout am adaugat inca un LinearLayout in care am pus un EditText
+ -si am adaugat un Button
+ Ex8
+ -am conectat Edittext si Button in functia onCreate
+ -am pus un onClickListner la buton pt a lua textul din editText si a il face string
+ -si am facut sa putem adauga new car cu numele din editText
