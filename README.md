@@ -13,3 +13,11 @@ In Ex2 am facut un fisier list_item.xml (pe orizontala)
   -am facut un fisier CarAdapter care se duce in BaseAdapter unde am pus
        -un Activity object (context)
        -un ArrayList (cu numele masinilor)
+       -iar apoi am adaugat functia addCar din lab
+Ex5       
+ element = layoutInflater.inflate(R.layout.list_item, null);
+ - in cursul 4 avem mentionat ca ,creearea de obiecte nu este eficienta (folosim mai multa memorie for the same task)
+ asa ca mai bine bolosim Buffers sau Liste 
+ -Reciclam datele pe care le avem deja
+  View convertView
+  if (convertView == null)
