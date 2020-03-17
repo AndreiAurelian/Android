@@ -1,5 +1,6 @@
 # Android- Andrei Ene 1241F
 
+LAB 5:
 In Ex0 doar am pus car_icon.png fara a genera un fisier XML
 In Ex1 am adaugat activity_main.xml si l-am facut Linear Layout ca in Lab2 (pe verticala)
 In Ex2 am facut un fisier list_item.xml (pe orizontala)
