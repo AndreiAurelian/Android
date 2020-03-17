@@ -18,7 +18,7 @@ Ex5
  element = layoutInflater.inflate(R.layout.list_item, null);
  - in cursul 4 avem mentionat ca ,creearea de obiecte nu este eficienta (folosim mai multa memorie for the same task)
  asa ca mai bine bolosim Buffers sau Liste 
- -Reciclam datele pe care le avem deja
+ -Reciclam datele pe care le avem deja,nu ramanem fara memorie si va merge mult mai repede
   View convertView
   if (convertView == null)
 Ex6  
