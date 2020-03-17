@@ -32,4 +32,4 @@ Ex6
  -am conectat Edittext si Button in functia onCreate
  -am pus un onClickListner la buton pt a lua textul din editText si a il face string
  -si am facut sa putem adauga new car cu numele din editText
- pentru imagini nu mi-am dat seama cum sa le fac rescale direct din android studio asa ca le-am facut in ps pe toate de 64x64 ca ele sa se alinieze bine.
+ pentru imagini nu mi-am dat seama cum sa le fac rescale direct din android studio asa ca le-am facut in ps pe toate de 64x64 ca ele sa se alinieze bine,si randurile la fel.
