@@ -9,3 +9,7 @@ In Ex2 am facut un fisier list_item.xml (pe orizontala)
   -in MainActivity.java am facut 2 clase:
     -class Car (String + imageResource)
     -class TagCar (TextView name + ImageView image)
+ Ex4
+  -am facut un fisier CarAdapter care se duce in BaseAdapter unde am pus
+       -un Activity object (context)
+       -un ArrayList (cu numele masinilor)
