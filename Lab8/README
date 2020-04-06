@@ -1,0 +1,10 @@
+The application i chose to make is a notes app 
+Because its the easyest way of showing databases in action easyly,because we're using simple text
+I looked at a couple of tutorials about how to make a notes app, luckly there are plenty
+I used different packages because i needed to save diffrent java classes
+I started constructing a database making a table for Notes, wich has a primary key 
+and that increments automaticaly so that i'll have notes 1 notes 2 and so on
+In the tutorials i've seen  how to do getNote of one, getAllNotes for all and getNotesCount for their number
+Used RecyclerTouchListner class for add ing events when we touch a note and MyDividerItemDecoration for separating the notes
+For the XML-s made a note dialog for EditText and in main activity we have the functions such as createNote and showNoteDialog
+toggleEmptyNotes is a nice addition because it can change the visibility
