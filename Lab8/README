@@ -8,3 +8,6 @@ In the tutorials i've seen  how to do getNote of one, getAllNotes for all and ge
 Used RecyclerTouchListner class for add ing events when we touch a note and MyDividerItemDecoration for separating the notes
 For the XML-s made a note dialog for EditText and in main activity we have the functions such as createNote and showNoteDialog
 toggleEmptyNotes is a nice addition because it can change the visibility
+https://www.androidauthority.com/lets-build-a-simple-text-editor-for-android-773774/
+https://www.youtube.com/watch?v=4YxUtIkG_gc&feature=emb_title
+https://www.androidhive.info/2011/11/android-sqlite-database-tutorial/
